@@ -1,0 +1,4 @@
+#Fri Oct 11 23:46:36 IST 2019
+base.0=C\:\\Users\\Thensi\\simple_android_application\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
