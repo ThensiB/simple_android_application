@@ -1,0 +1,407 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:2:1-102:12
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\acab31da7c8706c2b9e1e80baf3bd466\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\18aa90ce0833a002c7dd35bfb13e4449\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7f1e29a5a3cfc14594f80ab78d8257f6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:16:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\4acf534c54b5a7f5a11468e0b34b60e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\a3ffdc40dfac3233e79f64e717e1bd11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\58f14297496d7193a62e5badf343d894\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\85e0549c98b0887b17cfa60840189747\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\589bb34ac010b2e7be36b2a7da7c8f46\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\cc31dace2c6fdd9b97d5b6ccb7f18b48\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\2b61277d268f9bacf5719ebe1306bf98\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\ce8c2c0792746484e64b1cf72d934129\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\07130fed32a147fb3da2968ca97a80a2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\5fed8d900b4a88e8ba60dfc00fe21b78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\4f575ec33e9cfdc26479cf967dc1c183\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\65ed13db6e5408cf87d7ebd15bd620ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\c12ea0276c23a4428b29d047d5a212eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\28cabd538be0a3c6ed3acc906da4d06e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\473e1760f7758ecf3a8430995bde239c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\33fe31607cb5d24ce4fcd02673409117\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\dcb331c66120348320ed408c57d0e502\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\7f1b7de497988de2223515cec5e49796\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\987aa95eed87d7ec491eb285e4d2da13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\97ab151392a736f93b32b17958e22a29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\ddc5cc969bd328e8d4c9d9016d28e604\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\1247ef0f1ce60df7da4180a27b087f45\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\7b74d3446eb472e15bcec302d6b85424\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\377497588d95dbfde748caa72001352d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a8beb9f7fc94774fdaaefec33027fffb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d29b29a5ec6d3d25805dca31847e7701\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e55a0f5c06b77112c70896c2b9076c5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\0f638bb52dc6d7677e064f11c723bf9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\ccd0dc5282d1568ea82cd1d50c64dbea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\1cac3a25a25e3bcbbb47080adcf139ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ea1134bb7db9ece4d55e52de0fa62395\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\e29b565a93d617386957dd5ffb5713c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\942e81ac24383ecdd0ce297d80d10abd\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\de5ade1e1649c5088e4c8be827843a16\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\d4b7069d3ed9f636d65dfce232303b94\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\2e94de19fb3116d209e65f7bcf1a619f\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:2:1-102:12
+	package
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:2:1-102:12
+		INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:2:1-102:12
+		INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\acab31da7c8706c2b9e1e80baf3bd466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\acab31da7c8706c2b9e1e80baf3bd466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\18aa90ce0833a002c7dd35bfb13e4449\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\18aa90ce0833a002c7dd35bfb13e4449\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7f1e29a5a3cfc14594f80ab78d8257f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7f1e29a5a3cfc14594f80ab78d8257f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:23:5-43
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\4acf534c54b5a7f5a11468e0b34b60e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\4acf534c54b5a7f5a11468e0b34b60e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\a3ffdc40dfac3233e79f64e717e1bd11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\a3ffdc40dfac3233e79f64e717e1bd11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\58f14297496d7193a62e5badf343d894\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\58f14297496d7193a62e5badf343d894\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\85e0549c98b0887b17cfa60840189747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\85e0549c98b0887b17cfa60840189747\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\589bb34ac010b2e7be36b2a7da7c8f46\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\589bb34ac010b2e7be36b2a7da7c8f46\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\cc31dace2c6fdd9b97d5b6ccb7f18b48\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\cc31dace2c6fdd9b97d5b6ccb7f18b48\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\2b61277d268f9bacf5719ebe1306bf98\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\2b61277d268f9bacf5719ebe1306bf98\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\ce8c2c0792746484e64b1cf72d934129\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\ce8c2c0792746484e64b1cf72d934129\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\07130fed32a147fb3da2968ca97a80a2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\07130fed32a147fb3da2968ca97a80a2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\5fed8d900b4a88e8ba60dfc00fe21b78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\5fed8d900b4a88e8ba60dfc00fe21b78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\4f575ec33e9cfdc26479cf967dc1c183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\4f575ec33e9cfdc26479cf967dc1c183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\65ed13db6e5408cf87d7ebd15bd620ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\65ed13db6e5408cf87d7ebd15bd620ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\c12ea0276c23a4428b29d047d5a212eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\c12ea0276c23a4428b29d047d5a212eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\28cabd538be0a3c6ed3acc906da4d06e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\28cabd538be0a3c6ed3acc906da4d06e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\473e1760f7758ecf3a8430995bde239c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\473e1760f7758ecf3a8430995bde239c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\33fe31607cb5d24ce4fcd02673409117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\33fe31607cb5d24ce4fcd02673409117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\dcb331c66120348320ed408c57d0e502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\dcb331c66120348320ed408c57d0e502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\7f1b7de497988de2223515cec5e49796\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\7f1b7de497988de2223515cec5e49796\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\987aa95eed87d7ec491eb285e4d2da13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\987aa95eed87d7ec491eb285e4d2da13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\97ab151392a736f93b32b17958e22a29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\97ab151392a736f93b32b17958e22a29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\ddc5cc969bd328e8d4c9d9016d28e604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\ddc5cc969bd328e8d4c9d9016d28e604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\1247ef0f1ce60df7da4180a27b087f45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\1247ef0f1ce60df7da4180a27b087f45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\7b74d3446eb472e15bcec302d6b85424\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\7b74d3446eb472e15bcec302d6b85424\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\377497588d95dbfde748caa72001352d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\377497588d95dbfde748caa72001352d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a8beb9f7fc94774fdaaefec33027fffb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a8beb9f7fc94774fdaaefec33027fffb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d29b29a5ec6d3d25805dca31847e7701\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d29b29a5ec6d3d25805dca31847e7701\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e55a0f5c06b77112c70896c2b9076c5c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e55a0f5c06b77112c70896c2b9076c5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\0f638bb52dc6d7677e064f11c723bf9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\0f638bb52dc6d7677e064f11c723bf9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\ccd0dc5282d1568ea82cd1d50c64dbea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\ccd0dc5282d1568ea82cd1d50c64dbea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\1cac3a25a25e3bcbbb47080adcf139ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\1cac3a25a25e3bcbbb47080adcf139ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ea1134bb7db9ece4d55e52de0fa62395\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ea1134bb7db9ece4d55e52de0fa62395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\e29b565a93d617386957dd5ffb5713c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\e29b565a93d617386957dd5ffb5713c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\942e81ac24383ecdd0ce297d80d10abd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\942e81ac24383ecdd0ce297d80d10abd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\de5ade1e1649c5088e4c8be827843a16\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\de5ade1e1649c5088e4c8be827843a16\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\d4b7069d3ed9f636d65dfce232303b94\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\d4b7069d3ed9f636d65dfce232303b94\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\2e94de19fb3116d209e65f7bcf1a619f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\2e94de19fb3116d209e65f7bcf1a619f\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\ce8c2c0792746484e64b1cf72d934129\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:7:9-38
+		INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:6:9-34
+		INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:13:22-70
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:22:22-68
+uses-permission#android.permission.STORAGE
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:24:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:25:22-67
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:26:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:29:5-75
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:29:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:30:22-77
+application
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:32:5-100:19
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\acab31da7c8706c2b9e1e80baf3bd466\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\acab31da7c8706c2b9e1e80baf3bd466\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7f1e29a5a3cfc14594f80ab78d8257f6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7f1e29a5a3cfc14594f80ab78d8257f6\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\589bb34ac010b2e7be36b2a7da7c8f46\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\589bb34ac010b2e7be36b2a7da7c8f46\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\cc31dace2c6fdd9b97d5b6ccb7f18b48\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\cc31dace2c6fdd9b97d5b6ccb7f18b48\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\2b61277d268f9bacf5719ebe1306bf98\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\2b61277d268f9bacf5719ebe1306bf98\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\ce8c2c0792746484e64b1cf72d934129\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\ce8c2c0792746484e64b1cf72d934129\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\07130fed32a147fb3da2968ca97a80a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\07130fed32a147fb3da2968ca97a80a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\ddc5cc969bd328e8d4c9d9016d28e604\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\ddc5cc969bd328e8d4c9d9016d28e604\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\1247ef0f1ce60df7da4180a27b087f45\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\1247ef0f1ce60df7da4180a27b087f45\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\942e81ac24383ecdd0ce297d80d10abd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\942e81ac24383ecdd0ce297d80d10abd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\de5ade1e1649c5088e4c8be827843a16\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\de5ade1e1649c5088e4c8be827843a16\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\d4b7069d3ed9f636d65dfce232303b94\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\d4b7069d3ed9f636d65dfce232303b94\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\2e94de19fb3116d209e65f7bcf1a619f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\2e94de19fb3116d209e65f7bcf1a619f\AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\ddc5cc969bd328e8d4c9d9016d28e604\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:37:9-35
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:35:9-34
+	android:roundIcon
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:36:9-54
+	android:icon
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:34:9-38
+	android:allowBackup
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:38:9-40
+activity#com.example.thensi.safe_zone1.Main2Activity
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:39:9-60
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:39:19-48
+activity#com.example.thensi.safe_zone1.Main
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:40:9-43:68
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:42:13-38
+	android:theme
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:41:13-33
+activity#com.example.thensi.safe_zone1.SplashScreen
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:46:13-30
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:45:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:50:27-74
+activity#com.example.thensi.safe_zone1.Welcome
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:53:9-54
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:53:19-42
+activity#com.example.thensi.safe_zone1.login
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:54:9-56:37
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:56:13-34
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:55:13-34
+activity#com.example.thensi.safe_zone1.signup
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:57:9-59:39
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:58:13-35
+activity#com.example.thensi.safe_zone1.forgot
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:60:9-62:47
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:62:13-44
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:61:13-35
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:71:9-73:55
+	android:value
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:73:13-52
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:72:13-58
+activity#com.example.thensi.safe_zone1.GPS_Tracker
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:75:9-77:67
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:77:13-64
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:76:13-40
+activity#com.example.thensi.safe_zone1.Rate
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:78:9-80:39
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:80:13-36
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:79:13-33
+activity#com.example.thensi.safe_zone1.ListPhoneContactsActivity
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:81:9-63
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:81:19-60
+activity#com.example.thensi.safe_zone1.AddPhoneContactActivity
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:82:9-61
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:82:19-58
+activity#com.example.thensi.safe_zone1.confirmpassword
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:83:9-85:46
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:85:13-43
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:84:13-44
+activity#com.example.thensi.safe_zone1.SedEmail
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:86:9-88:37
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:88:13-34
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:87:13-37
+activity#com.example.thensi.safe_zone1.AudioRecoder
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:89:9-50
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:89:19-47
+activity#com.example.thensi.safe_zone1.SendSms
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:90:9-92:39
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:92:13-36
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:91:13-36
+activity#com.example.thensi.safe_zone1.List
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:93:9-42
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:93:19-39
+activity#com.example.thensi.safe_zone1.Otp
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:94:9-96:35
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:96:13-32
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:95:13-32
+activity#com.example.thensi.safe_zone1.Update
+ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:97:9-99:47
+	android:label
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:99:13-44
+	android:name
+		ADDED from C:\Users\Thensi\simple_android_application\app\src\main\AndroidManifest.xml:98:13-35
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\8a7ff038aa9e1867be60113cf1b0a1da\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\589bb34ac010b2e7be36b2a7da7c8f46\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\589bb34ac010b2e7be36b2a7da7c8f46\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\589bb34ac010b2e7be36b2a7da7c8f46\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\589bb34ac010b2e7be36b2a7da7c8f46\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\2b61277d268f9bacf5719ebe1306bf98\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\2b61277d268f9bacf5719ebe1306bf98\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Thensi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\2b61277d268f9bacf5719ebe1306bf98\AndroidManifest.xml:20:20-65
