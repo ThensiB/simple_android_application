@@ -21,14 +21,6 @@ An Android application designed to help users share their location status in rea
 - Firebase Authentication
 - SMS and Contact APIs
 
-## Screenshots
-
-![Login Screen](https://github.com/user-attachments/assets/7b37f42e-85f6-4060-bc93-f55a75fe5d0b)
-
-![Location Tracking](https://github.com/user-attachments/assets/569fb6b7-2630-4c75-80da-795adc5390e1)
-
-![User Interface](https://github.com/user-attachments/assets/a6465861-1558-4373-b8c0-8efeac214b87)
-
 ## Requirements
 
 - Android SDK minimum version 15
